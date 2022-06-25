@@ -1,0 +1,1108 @@
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #85FF83;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 331px;
+height: 72px;
+left: 18px;
+top: 20px;
+
+background: #3AFFF3;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 18px;
+top: 126px;
+
+background: #B1C53C;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 18px;
+top: 232px;
+
+background: #F5F5F5;
+
+
+/* Porsche(you) */
+
+
+position: absolute;
+width: 365px;
+height: 72px;
+left: 47px;
+top: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Mclaren */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 47px;
+top: 126px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Lambo */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 47px;
+top: 232px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 1414px;
+height: 596px;
+left: 44px;
+top: 334px;
+
+background: #FFFFFF;
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 256.01px;
+height: 0px;
+left: 1346px;
+top: 12px;
+
+border: 1px solid #000000;
+transform: rotate(89.55deg);
+
+
+/* Question 1: What is the number one cause of air pollution? */
+
+
+position: absolute;
+width: 1350px;
+height: 74px;
+left: 47px;
+top: 334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* A: Greenhouse Gases */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 418px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* B: Cars */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* C: Climate Change */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* D: Electricity */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Finish */
+
+
+position: absolute;
+width: 170px;
+height: 46px;
+left: 1410px;
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+transform: rotate(90deg);
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #85FF83;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 331px;
+height: 72px;
+left: 391px;
+top: 30px;
+
+background: #3AFFF3;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 125px;
+top: 120px;
+
+background: #B1C53C;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 468px;
+top: 236px;
+
+background: #F5F5F5;
+
+
+/* Porsche(you) */
+
+
+position: absolute;
+width: 365px;
+height: 72px;
+left: 412px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Mclaren */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 154px;
+top: 120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Lambo */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 516px;
+top: 236px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 1414px;
+height: 596px;
+left: 44px;
+top: 334px;
+
+background: #FFFFFF;
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 256.01px;
+height: 0px;
+left: 1346px;
+top: 12px;
+
+border: 1px solid #000000;
+transform: rotate(89.55deg);
+
+
+/* Question 1: What is the number one cause of air pollution? */
+
+
+position: absolute;
+width: 1350px;
+height: 74px;
+left: 47px;
+top: 334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* A: Greenhouse Gases */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 418px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #8348FF;
+
+
+
+/* B: Cars */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* C: Climate Change */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* D: Electricity */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Finish */
+
+
+position: absolute;
+width: 170px;
+height: 46px;
+left: 1410px;
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+transform: rotate(90deg);
+
+
+/* GOOD JOB, THAT’S CORRECT */
+
+
+position: absolute;
+width: 908px;
+height: 196px;
+left: 92px;
+top: 716px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 264px;
+height: 94px;
+left: 544px;
+top: 818px;
+
+background: #D9D9D9;
+
+
+/* NEXT */
+
+
+position: absolute;
+width: 300px;
+height: 100px;
+left: 595px;
+top: 830px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #85FF83;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 331px;
+height: 72px;
+left: 350px;
+top: 30px;
+
+background: #3AFFF3;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 103px;
+top: 115px;
+
+background: #B1C53C;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 413px;
+top: 232px;
+
+background: #F5F5F5;
+
+
+/* Porsche(you) */
+
+
+position: absolute;
+width: 365px;
+height: 72px;
+left: 357px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Mclaren */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 132px;
+top: 120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Lambo */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 471px;
+top: 236px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 1414px;
+height: 596px;
+left: 44px;
+top: 334px;
+
+background: #FFFFFF;
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 256.01px;
+height: 0px;
+left: 1346px;
+top: 12px;
+
+border: 1px solid #000000;
+transform: rotate(89.55deg);
+
+
+/* Question 2: What is causing climate change? */
+
+
+position: absolute;
+width: 1350px;
+height: 74px;
+left: 47px;
+top: 334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* A: IDK */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 418px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* B: Enviroment */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* C: Animals */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* D: Humans */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Finish */
+
+
+position: absolute;
+width: 170px;
+height: 46px;
+left: 1410px;
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+transform: rotate(90deg);
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #85FF83;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 331px;
+height: 72px;
+left: 935px;
+top: 12px;
+
+background: #3AFFF3;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 360px;
+top: 120px;
+
+background: #B1C53C;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 254px;
+height: 72px;
+left: 756px;
+top: 215px;
+
+background: #F5F5F5;
+
+
+/* Porsche(you) */
+
+
+position: absolute;
+width: 365px;
+height: 72px;
+left: 935px;
+top: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Mclaren */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 399px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Lambo */
+
+
+position: absolute;
+width: 196px;
+height: 72px;
+left: 785px;
+top: 215px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 1414px;
+height: 596px;
+left: 44px;
+top: 334px;
+
+background: #FFFFFF;
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 256.01px;
+height: 0px;
+left: 1346px;
+top: 12px;
+
+border: 1px solid #000000;
+transform: rotate(89.55deg);
+
+
+/* Question 2: What is causing climate change? */
+
+
+position: absolute;
+width: 1350px;
+height: 74px;
+left: 47px;
+top: 334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* A: IDK */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 418px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* B: Enviroment */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* C: Animals */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* D: Humans */
+
+
+position: absolute;
+width: 1374px;
+height: 66px;
+left: 62px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #EC12FF;
+
+
+
+/* Finish */
+
+
+position: absolute;
+width: 170px;
+height: 46px;
+left: 1410px;
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+transform: rotate(90deg);
+
+
+/* GOOD JOB, THAT’S CORRECT */
+
+
+position: absolute;
+width: 908px;
+height: 196px;
+left: 62px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 264px;
+height: 94px;
+left: 590px;
+top: 806px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 264px;
+height: 94px;
+left: 1168px;
+top: 614px;
+
+background: #FF0C0C;
+
+
+/* NEXT */
+
+
+position: absolute;
+width: 300px;
+height: 100px;
+left: 659px;
+top: 824px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* STOP RACE */
+
+
+position: absolute;
+width: 300px;
+height: 100px;
+left: 1168px;
+top: 632px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
