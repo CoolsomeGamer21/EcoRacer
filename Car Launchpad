@@ -1,0 +1,211 @@
+<html>
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #2BFFF2;
+
+
+/* Hey AwesomeGames_Official */
+
+
+position: absolute;
+width: 842px;
+height: 73px;
+left: 359px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 275px;
+height: 68px;
+left: 1063px;
+top: 10px;
+
+background: #56C2BC;
+
+
+/* LOG OUT */
+
+
+position: absolute;
+width: 247px;
+height: 61px;
+left: 1091px;
+top: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Car Selected : Porche 911 turbo S */
+
+
+position: absolute;
+width: 704px;
+height: 82px;
+left: 387px;
+top: 118px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FF2E00;
+
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 463px;
+height: 216px;
+left: 487px;
+top: 208px;
+
+background: url(image.png);
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 186px;
+height: 70px;
+left: 18px;
+top: 21px;
+
+background: #F94545;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 186px;
+height: 70px;
+left: 18px;
+top: 130px;
+
+background: #2AEC8F;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 556px;
+height: 79px;
+left: 18px;
+top: 475px;
+
+background: #CCCEE3;
+
+
+/* SHOP */
+
+
+position: absolute;
+width: 247px;
+height: 61px;
+left: 44px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* RACE */
+
+
+position: absolute;
+width: 247px;
+height: 61px;
+left: 35px;
+top: 135px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 448px;
+height: 210px;
+left: 997px;
+top: 208px;
+
+background: url(image.png);
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 440px;
+height: 223px;
+left: 18px;
+top: 208px;
+
+background: url(image.png);
+
+
+/* $$$100,000 Balance */
+
+
+position: absolute;
+width: 507px;
+height: 69px;
+left: 28px;
+top: 480px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #45492B;
+
+</html>
