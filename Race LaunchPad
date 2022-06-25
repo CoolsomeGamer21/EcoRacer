@@ -1,0 +1,742 @@
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 57, 57, 0.62);
+background-blend-mode: multiply;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 626px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+background: rgba(0, 255, 194, 0.62);
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 630px;
+
+background: #1FAEFF;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 465px;
+height: 173px;
+left: 0px;
+top: 630px;
+
+background: #2AEC8F;
+
+
+/* PORSCHE 911 Turbo S @AwesomeGames_Official YOU */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MCLAREN 720 S @Mclarenalwayswins Friend #1 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 622px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* LAMBO SVJ @Nobodyisbetterthanme Friend #2 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 0px;
+top: 614px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 351px;
+height: 77px;
+left: 475px;
+top: 864px;
+
+background: #2AEC8F;
+
+
+/* LET’S RACE */
+
+
+position: absolute;
+width: 323px;
+height: 61px;
+left: 529px;
+top: 880px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 57, 57, 0.62);
+background-blend-mode: multiply;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 626px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+background: rgba(0, 255, 194, 0.62);
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 630px;
+
+background: #1FAEFF;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 465px;
+height: 173px;
+left: 0px;
+top: 630px;
+
+background: #2AEC8F;
+
+
+/* PORSCHE 911 Turbo S @AwesomeGames_Official YOU */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MCLAREN 720 S @Mclarenalwayswins Friend #1 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 622px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* LAMBO SVJ @Nobodyisbetterthanme Friend #2 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 0px;
+top: 614px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 828px;
+height: 619px;
+left: 342px;
+top: 106px;
+
+background: #D9D9D9;
+
+
+/* 3 */
+
+
+position: absolute;
+width: 708px;
+height: 1016px;
+left: 477px;
+top: -58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 800px;
+line-height: 968px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 57, 57, 0.62);
+background-blend-mode: multiply;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 626px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+background: rgba(0, 255, 194, 0.62);
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 630px;
+
+background: #1FAEFF;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 465px;
+height: 173px;
+left: 0px;
+top: 630px;
+
+background: #2AEC8F;
+
+
+/* PORSCHE 911 Turbo S @AwesomeGames_Official YOU */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MCLAREN 720 S @Mclarenalwayswins Friend #1 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 622px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* LAMBO SVJ @Nobodyisbetterthanme Friend #2 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 0px;
+top: 614px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 828px;
+height: 619px;
+left: 342px;
+top: 106px;
+
+background: #D9D9D9;
+
+
+/* 2 */
+
+
+position: absolute;
+width: 708px;
+height: 1016px;
+left: 477px;
+top: -58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 800px;
+line-height: 968px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 57, 57, 0.62);
+background-blend-mode: multiply;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 626px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+background: rgba(0, 255, 194, 0.62);
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 630px;
+
+background: #1FAEFF;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 465px;
+height: 173px;
+left: 0px;
+top: 630px;
+
+background: #2AEC8F;
+
+
+/* PORSCHE 911 Turbo S @AwesomeGames_Official YOU */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MCLAREN 720 S @Mclarenalwayswins Friend #1 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 622px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* LAMBO SVJ @Nobodyisbetterthanme Friend #2 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 0px;
+top: 614px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 828px;
+height: 619px;
+left: 342px;
+top: 106px;
+
+background: #D9D9D9;
+
+
+/* 1 */
+
+
+position: absolute;
+width: 708px;
+height: 1016px;
+left: 477px;
+top: -58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 800px;
+line-height: 968px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 57, 57, 0.62);
+background-blend-mode: multiply;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 626px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+background: rgba(0, 255, 194, 0.62);
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 630px;
+
+background: #1FAEFF;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 465px;
+height: 173px;
+left: 0px;
+top: 630px;
+
+background: #2AEC8F;
+
+
+/* PORSCHE 911 Turbo S @AwesomeGames_Official YOU */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 1011px;
+top: 630px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MCLAREN 720 S @Mclarenalwayswins Friend #1 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 485px;
+top: 622px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* LAMBO SVJ @Nobodyisbetterthanme Friend #2 */
+
+
+position: absolute;
+width: 501px;
+height: 173px;
+left: 0px;
+top: 614px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 828px;
+height: 619px;
+left: 342px;
+top: 106px;
+
+background: #D9D9D9;
+
+
+/* GO */
+
+
+position: absolute;
+width: 708px;
+height: 1016px;
+left: 462px;
+top: 122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 400px;
+line-height: 484px;
+
+color: #000000;
